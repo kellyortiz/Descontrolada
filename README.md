@@ -20,5 +20,5 @@ O sistema também deve possuir um menu que permita a navegação entre as duas p
 
 - ASP.NET Core com .NET 5.
 - EF Core
-- - Visual Studio 2019
-- - Linguagem: C#
+- Visual Studio 2019
+- Linguagem: C#
