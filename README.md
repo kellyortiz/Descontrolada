@@ -16,6 +16,10 @@ Página para exibição dos produtos cadastrados, que deverá mostrar apenas 5 i
 
 O sistema também deve possuir um menu que permita a navegação entre as duas páginas.
 
+## Para Acessar
+codeBlox -> View -> descontrolada -> index
+Depois é só dar IISExpress :grinning:
+
 ## Tecnologia utilizada
 
 - ASP.NET Core com .NET 5.
